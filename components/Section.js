@@ -216,7 +216,7 @@ Section.defaultProps = {
   hideSeparator: false,
   sectionPaddingBottom: 15,
   sectionPaddingTop: 15,
-  sectionTintColor: '#EFEFF4',
+  sectionTintColor: 'transparent',
   footerTextColor: '#6d6d72',
   separatorInsetLeft: 15,
   separatorInsetRight: 0,
